@@ -1,4 +1,4 @@
-# Student Resource Need Analysis System
+# Student Resource Optimization Dashboard
 
 ## Project Overview
 This project addresses the **Digital Divide** in education by using an AI-Architected logic engine to segment 500 student records based on academic performance and internet accessibility.
